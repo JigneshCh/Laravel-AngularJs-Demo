@@ -12,9 +12,14 @@ This is a Larave-5 code with following functionality
  - Download zip or clone the repository
  - Set/Configure database settings in .env file
  - Update package by running composer update/install command -- `composer update`
+ - Migrated database -- `php arisan migrate`
+ - Seeder to generate 1000 dumy jobs data  -- `php arisan db:seed`
  - Run the project by command -- `php arisan serve`
 
 ## Overview 
+
+ - Url_1: http://13.234.224.145/Jignesh-demo/Laravel-AngularJs-Demo/public/
+ - Url_2: http://jc-deloper.com/Jignesh-demo/Laravel-AngularJs-Demo/public/
 
 #AngularJs for job listing
 
