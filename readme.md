@@ -18,8 +18,7 @@ This is a Larave-5 code with following functionality
 
 ## Overview 
 
- - Url_1: http://13.234.224.145/Jignesh-demo/Laravel-AngularJs-Demo/public/
- - Url_2: http://jc-deloper.com/Jignesh-demo/Laravel-AngularJs-Demo/public/
+ - Url: http://jcwebdeveloper.com/Jignesh-demo/Laravel-AngularJs-Demo/public/
 
 #AngularJs for job listing
 
